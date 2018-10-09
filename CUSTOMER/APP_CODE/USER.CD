@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="宋体" Size="9" />
+  <Class Name="ASPNETAJAXWeb.AjaxInstantMessaging.User">
+    <Position X="1.75" Y="0.75" Width="8" />
+    <TypeIdentifier>
+      <FileName>App_Code\User.cs</FileName>
+      <HashCode>IAAABIAAEgCAAAAEAAABgAAAgQAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNETAJAXWeb.AjaxInstantMessaging.UserInfo">
+    <Position X="1.75" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\User.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAACQAAAAkAAAAAAAACAAAAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
